@@ -1,0 +1,28 @@
+.background {
+    background-color: black;
+    width: 200px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(230, 39, 144);
+    height: 50vh;
+}
+
+button {
+    width: 50px;
+    margin: 10px 5px;
+}
+input {
+    width: 150px;
+    margin: 12px;
+    margin-bottom: 0px;
+}
